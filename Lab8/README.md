@@ -120,12 +120,7 @@ Then these images will show on GitHub for public viewers:
 
 ![Products Screenshot](docs/screenshots/products.png)
 
-### How to add your screenshots
 
-1. Save dashboard screenshot as dashboard.png.
-2. Save products screenshot as products.png.
-3. Copy both files into docs/screenshots/.
-4. Commit and push to GitHub.
 
 ## Notes
 
