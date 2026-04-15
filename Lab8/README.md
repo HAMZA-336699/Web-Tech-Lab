@@ -101,10 +101,31 @@ php artisan serve
 npm run dev
 ```
 
-8. Open app:
+8. Run the app locally and capture screenshots of the Dashboard and Products pages.
 
-- Dashboard: http://127.0.0.1:8000/dashboard
-- Products: http://127.0.0.1:8000/products
+## Screenshots
+
+After taking screenshots from your local project, place them in:
+
+- docs/screenshots/dashboard.png
+- docs/screenshots/products.png
+
+Then these images will show on GitHub for public viewers:
+
+### Dashboard Page
+
+![Dashboard Screenshot](docs/screenshots/dashboard.png)
+
+### Products Page
+
+![Products Screenshot](docs/screenshots/products.png)
+
+### How to add your screenshots
+
+1. Save dashboard screenshot as dashboard.png.
+2. Save products screenshot as products.png.
+3. Copy both files into docs/screenshots/.
+4. Commit and push to GitHub.
 
 ## Notes
 
